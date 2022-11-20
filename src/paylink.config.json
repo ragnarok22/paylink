@@ -2,25 +2,53 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
+    "name": "Reinier Hernández",
+    "description": "Backend Developer. Pythonist.",
+    "alt": "Photo of REinier Hernández",
     "hero": "./images/daniel-castillo.png"
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.vercel.app" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    {
+      "label": "Email",
+      "value": "bx-envelope",
+      "link": "mailto:dlcastillo3015@gmail.com"
+    },
+    {
+      "label": "Link",
+      "value": "bx-link",
+      "link": "https://dlcastillop.vercel.app"
+    },
+    {
+      "label": "GitHub",
+      "value": "bxl-github",
+      "link": "https://github.com/ragnarok22"
+    },
+    {
+      "label": "Twitter",
+      "value": "bxl-twitter",
+      "link": "https://twitter.com/ragnarokreinier"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "bxl-linkedin",
+      "link": "https://linkedin.com/in/ragnarokreinier"
+    },
+    {
+      "label": "Instagram",
+      "value": "bxl-instagram",
+      "link": "https://instagram.com/ragnarokreinier"
+    },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
     { "label": "Pinterest", "value": "bxl-pinterest", "link": "" },
     { "label": "Snapchat", "value": "bxl-snapchat", "link": "" },
-    { "label": "Telegram", "value": "bxl-telegram", "link": "" },
+    {
+      "label": "Telegram",
+      "value": "bxl-telegram",
+      "link": "https://t.me/ragnarokreinier"
+    },
     { "label": "TikTok", "value": "bxl-tiktok", "link": "" },
     { "label": "Twitch", "value": "bxl-twitch", "link": "" },
     { "label": "Vimeo", "value": "bxl-vimeo", "link": "" },
@@ -81,7 +109,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/ragnarokreinier",
       "img": "./images/payments/qvapay.svg"
     },
     {
