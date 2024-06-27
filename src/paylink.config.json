@@ -130,18 +130,6 @@
       "label": "XRP",
       "value": "",
       "img": "./images/payments/xrp.svg"
-    },
-    {
-      "id": "card",
-      "label": "MLC Card",
-      "value": "9225069991275145",
-      "img": "./images/payments/card.svg"
-    },
-    {
-      "id": "card",
-      "label": "CUP Card",
-      "value": "9204069998194583",
-      "img": "./images/payments/card.svg"
     }
   ]
 }
